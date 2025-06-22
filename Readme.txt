@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Eterna
-Template URL: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/
+Template Name: Scout
+Template URL: https://bootstrapmade.com/scout-bootstrap-multipurpose-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
